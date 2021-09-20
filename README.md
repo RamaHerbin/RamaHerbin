@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @Kizotti
 - 👀 I’m interested in front dev but I also have some hobbies like playing guitar or gym or many other things
-- 🌱 I’m currently learning a lot of different things
+- 🌱 I’m currently learning a lot of different things : ES6, Vue.js, Three.js
 
 
 ### Check out my [Github page](https://gitlab.com/RamaHerbin) !
