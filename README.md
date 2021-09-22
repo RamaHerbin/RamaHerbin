@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a lot of different things : ES6, Vue.js, Three.js
 
 
-### Check out my [Github page](https://gitlab.com/RamaHerbin) !
+### Check out my [Gitlab page](https://gitlab.com/RamaHerbin) !
 
 <!---
 Kizotti/Kizotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
