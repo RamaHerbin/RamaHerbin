@@ -1,9 +1,8 @@
 - 👋  Hi, I’m @Rama Herbin
 - 👀 I’m interested in front dev but I also have some hobbies like playing guitar or gym or many other things...
-- 🌱 I’m currently learning a lot of different things : ES6, Vue.js, Three.js, VIM...
+- 🌱 I’m currently learning a lot of different things : ES6, Angular, WebGL, Directus, VIM...
 
 
-### Check out my [Gitlab page](https://gitlab.com/RamaHerbin) !
 
 <!---
 Kizotti/Kizotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
