@@ -16,8 +16,7 @@ I love crafting intuitive interfaces and blending **design, interaction, and cod
 ### 🎸 Outside of Work
 When I’m not coding, you’ll probably find me:
 - Playing **fingerstyle guitar**
-- Hiking or snowboarding in the **Alps**
-- Capturing moments through **photography**
+- Capturing moments through **photography** 
 
 ---
 
@@ -33,7 +32,7 @@ When I’m not coding, you’ll probably find me:
 
 ---
 
-✨ *“Code is just another form of expression — like music or photography.”*
+✨ *“I like trains.”*
 
 
 
