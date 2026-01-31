@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Rama Herbin
 
-🎯 **Front-End Engineer @ Ansys (Synopsys)** — based in **Lyon, France**  
+🎯 **UI Engineer @ Ansys Inc (Synopsys)** — based in **Lyon, France**  
 I love crafting intuitive interfaces and blending **design, interaction, and code** to create meaningful user experiences.
 
 ---
 
 ### 🧠 What I Do
-- 💻 Building scalable UIs with **Angular 18**, **TypeScript**, and **TailwindCSS**
+- 💻 Building scalable UIs with **Angular 21**, **TypeScript**, and **TailwindCSS**
 - 🧩 Exploring **Nuxt 4**, **Vue 3**, and **design systems**
-- 🎨 Experimenting with **WebGL**, **creative coding**, and **AI-assisted UX**
+- 🎨 Experimenting with **WebGL**, **creative coding** and **AI-assisted UX**
 - 🚀 Always learning, improving, and sharing what I discover
 
 ---
