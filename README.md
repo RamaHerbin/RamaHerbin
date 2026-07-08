@@ -2,14 +2,11 @@
 
 **Full-Stack Software Engineer · Product & Design Engineering**
 
-I build clean, fast product interfaces and the systems behind them, front to back, with
 AI in the loop.
 
 Currently at Synopsys (Ansys) in Lyon, France. Trained at Gobelins in interactive design.
 
 [Portfolio](https://rama.app) · [LinkedIn](https://www.linkedin.com/in/rama-herbin) · [Guitar](https://www.instagram.com/ramaherbin) · [Photography](https://www.instagram.com/photo.rama.app)
-
-> Good interfaces aren't decorated. The character lives in the type, the spacing, the hierarchy.
 
 ## Currently building
 
