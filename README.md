@@ -37,6 +37,8 @@ Contemporaine, and others).
 **Back & infra.** Node, NestJS, GraphQL, PostgreSQL, Docker, Kubernetes, Terraform, Grafana, GitHub Actions.
 **Craft.** Design systems, component architecture, WebGL / Three.js, GSAP, motion.
 
+![Rama's GitHub metrics](./github-metrics.svg)
+
 <!---
 RamaHerbin/RamaHerbin is a special repository - its README.md appears on your GitHub profile.
 --->
