@@ -21,8 +21,6 @@ Currently at Synopsys (Ansys) in Lyon, France. Trained at Gobelins in interactiv
 | [fancy-ui](https://fancy-ui.rama.app) | 52+ animated Svelte 5 components. Tailwind v4, TypeScript, on npm. |
 | [rama.app](https://rama.app) | Portfolio, built end to end with Nuxt, Directus and GraphQL. |
 | [photo.rama.app](https://photo.rama.app) | Image-first photography app in Svelte. |
-| DSM at Synopsys (Ansys) | UI and backend for an enterprise safety platform. |
-| Dev platform at Ansys | Internal tool to launch apps on Kubernetes. Terraform, Grafana, CI/CD. |
 
 Before that, sole developer at Fleur de Papier: built a custom in-house CMS and shipped
 immersive WebGL / Three.js installations for cultural institutions (BnF Richelieu, La
